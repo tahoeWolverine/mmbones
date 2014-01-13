@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Bones00.xslt" ?>
+
+<!--Ordered by Year (descending), then Alphabetic (ascending)-->
+<bones year="2000">
+	<superSeniors valueString="5th Year Seniors" yearInSchool="5">
+		<bone name="" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jacob Balazer" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jason Kramb" hometown="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jeremy Mollison" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</superSeniors>
+	<seniors valueString="Seniors" yearInSchool="4">
+		<bone name="Andy Holmes" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Greg King" hometown="East Grand Rapids, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Bob Krentler" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Andy Masi" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Garrett Mendez" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Sara Patrick" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Katie Polasek" hometown="" rankLeader="Yes" sectionLeader="Yes" bonebabe="Yes" bassbone="No" />
+		<bone name="Tim Schimpf" hometown="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</seniors>
+	<juniors valueString="Juniors" yearInSchool="3">
+		<bone name="Justin Bowler" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Matt Cavanaugh" hometown="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Melissa Clubine" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Terry Foster" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Matt Graham" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Mike Grunwald" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Justin Hammis" hometown="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="Yes" />
+		<bone name="Geoff Hanson" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Matthew Kittle" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Greg Pappas" hometown="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Tim Springer" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Ryan Thomas" hometown="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</juniors>
+	<sophomores valueString="Sophomores" yearInSchool="2">
+		<bone name="Andy Cheng" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Peter Chi" hometown="Newark, DE" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+		<bone name="Nicholas Enlow" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jeff Everett" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Justin Knorr" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jethro Law" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Mike Moffit" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Kristi Schmitt" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Amy Wells" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	</sophomores>
+	<freshmen valueString="Freshmen" yearInSchool="1">
+		<bone name="Blake Coe" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Beth Johnston" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Ian Kahn" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Marco Krcatovich" hometown="Holland, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Kathryn McLean" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Kathleen Nylan" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Steve Paternel" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Lily Paulina" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Adam Redstone" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Nora Robinson" hometown="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	</freshmen>
+</bones>

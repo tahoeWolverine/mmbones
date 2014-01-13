@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Bones13.xslt" ?>
+
+<!--Ordered by Year (descending), then Alphabetic (ascending)-->
+<bones year="2013">
+	<superSeniors valueString="5th Year Seniors" yearInSchool="5">
+		<bone name="" hometown="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Kellen Marceau" hometown="Adrian, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Andrew Schumacher" hometown="Farmington Hills, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Solomon Shurge" hometown="Wayne, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</superSeniors>
+	<seniors valueString="Seniors" yearInSchool="4">
+		<bone name="Michael Bacon" hometown="Temperance, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Jonathan Bower" hometown="Ann Arbor, MI" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Molly Drlik" hometown="Midland, MI" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Breanna Duso" hometown="Marysville, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Adam Fisher" hometown="Franklin, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Darren Gross" hometown="Pennington, NJ" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Sam Laidlaw" hometown="Dexter, MI" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Max Lustig" hometown="Williamsville, NY" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Shawna Mulvihill" hometown="South Haven, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Shane Myrik" hometown="Escanaba, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Zachary Ruch" hometown="DeWitt, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Anthony Sexton" hometown="Jackson, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Grace Wolfe" hometown="Saline, MI" rankLeader="Yes" sectionLeader="Yes" bonebabe="Yes" bassbone="No" />
+	</seniors>
+	<juniors valueString="Juniors" yearInSchool="3">
+		<bone name="Ian Baker" hometown="Gales Ferry, CT" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Neil Banchero-Smith" hometown="Farmington Hills, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Nick Battishill" hometown="Plymouth, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Alexander Birch" hometown="Warren, MI" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Natalie Blackwood" hometown="New Buffalo, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Brian Daniels" hometown="Commerce Township, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Trevor Dworetz" hometown="Atlanta, GA" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Christopher Jenkins" hometown="Grosse Pointe Woods, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Yutaka Oshikiri" hometown="Northville, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Derek Shaffer" hometown="Livonia, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Elizabeth Smith" hometown="Temperance, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Katelyn Stover" hometown="Basking Ridge, NJ" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Andrew Wood" hometown="East Lansing, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</juniors>
+	<sophomores valueString="Sophomores" yearInSchool="2">
+		<bone name="Santos Campos" hometown="Battle Creek, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Pete Dahl" hometown="Hudsonville, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Allison George" hometown="Owosso, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Jake Gondek" hometown="Clinton Twp., MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="John Imperial" hometown="Jackson, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Tyler Kane" hometown="Davison, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Logan McClintic" hometown="Carson City, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Clay Mikush" hometown="Winter Garden, FL" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Michael Roberts" hometown="Lake Orion, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Natalie Setterberg" hometown="Holland, OH" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Stanley Smith" hometown="Troy, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Nicholas Terrell" hometown="Ann Arbor, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Ellyse Vogel" hometown="Warren, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	</sophomores>
+	<freshmen valueString="Freshmen" yearInSchool="1">
+		<bone name="Samuel Cain" hometown="Durand, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="John DeBono" hometown="Allen Park, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Michaella DeRubeis" hometown="Rochester Hills, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Anthony Fici" hometown="Galesburg, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Marie Gentile" hometown="Southgate, MI" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+		<bone name="Noah Mathis" hometown="San Marino, CA" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Ryan O'Keefe" hometown="Commerce, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Sam Plumb" hometown="Papillion, NE" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Peter Romero" hometown="Farmington Hills, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Timothy Schumacher" hometown="Farmington Hills, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Zachary Wall" hometown="Lebanon, IN" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Ian Wolfe" hometown="Saline, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+		<bone name="Alex Ying" hometown="Westfield, NJ" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Brent Zablocki" hometown="Clinton Township, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+		<bone name="Jacob Zimmerman" hometown="Haslett, MI" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	</freshmen>
+</bones>

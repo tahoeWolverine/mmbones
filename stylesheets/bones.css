@@ -1,0 +1,150 @@
+﻿a:link
+{
+	color: #00c;
+}
+a:visited
+{
+	color: #551a8b;
+}
+a:active
+{
+	color: #f00;
+}
+.b
+{
+	font-weight: bold;
+}
+.badgeBassBone
+{
+	font-size:8pt;
+	vertical-align: top;
+}
+.badgeLeader
+{
+	font-size:7pt;
+	vertical-align: top;
+}		
+.blueTrim
+{
+	background-color: #3366cc;
+}
+.blueFooter
+{
+	border-top: 1px solid #6b90da;
+	border-bottom: 1px solid #6b90da;
+	background-color: #f0f7f9;
+	width: 100%;
+}
+.blueHeader
+{
+	border-top: 1px solid #6b90da;
+	background-color: #f0f7f9;
+	width: 100%;
+}
+.boneLogoCell
+{
+	vertical-align: top;
+	width: 150;
+	height: 55;
+}
+body
+{
+	background-color: #ffffff;
+	margin-top: 0;
+	margin-left: 7;
+	margin-right: 7;
+	margin-bottom: 7;
+}
+body, td, div, .p, a, p
+{
+	font-family: arial,sans-serif;
+}
+.ch
+{
+	cursor: pointer;
+}
+.classHeading
+{
+	font-size: 18;
+}
+.csb
+{
+	height: 26px;
+	display: block;
+}
+.cur
+{
+	color: #000080;
+	font-weight: bold;
+}
+.dataCellHeader
+{
+	text-decoration: underline;
+	font-weight: bold;
+}
+.dataCells
+{
+	text-align: left;
+}
+.dataTitle
+{
+	font-size: 18;
+}
+div, td
+{
+	color: #000;
+}
+div
+{
+	font-size: 10pt;
+}
+.homepageLabel
+{
+	font-size: 8pt;
+	text-align: center;
+}
+.imageTable
+{
+	width: 300;
+	text-align: right;
+	vertical-align: top;
+}
+.imageTable img
+{
+	width: 300px;
+	text-align: right;
+	vertical-align: top;
+}
+img
+{
+	/*border: solid 1 black;*/
+	border-style: solid;
+	border-width: 1;
+}
+.lightBlueHeaderFooter
+{
+	background-color: #e5ecf9;
+}
+.resultText
+{
+	text-align: right;
+	font-size: 10pt;
+	white-space: nowrap;
+}
+table
+{
+	border: 0;
+}
+.tableLeftBuffer
+{
+	width: 8%;
+}
+.topLinkBar a:visited, .topLinkBar a:link, .topLinkBar a:active, .topLinkBar
+{
+	color: #00c;
+	font-size: 10pt;
+}
+.w20
+{
+	width: 20px;
+}

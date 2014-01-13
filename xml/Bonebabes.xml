@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Bonebabes.xslt" ?>
+
+<!--Ordered by Year ((1st)first year ascending, (2nd)final year ascending), then Alphabetic ((3rd)first name ascending)-->
+<bonebabes year="2011">
+	<bonebabe name="Jenn McKee" yearsMarched="1989-1992, 1994" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Carol Trapp" yearsMarched="1990-1994" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kim Kardasz" yearsMarched="1993-1997" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />	
+	<bonebabe name="Tiffany Brand" yearsMarched="1995-1998" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Venetta Smith" yearsMarched="1995-1998" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Sara Patrick" yearsMarched="1997-2000" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Katie Polasek" yearsMarched="1997-2000" additionalText="" rankLeader="Yes" sectionLeader="Yes" bassbone="No" />
+	<bonebabe name="Stephanie Perry" yearsMarched="1998" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Lisa Slepetski" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kathleen Nylan" yearsMarched="1999-2002" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Amy Wells" yearsMarched="1999-2002" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kristi Schmitt" yearsMarched="1999-2003" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Beth Johnston" yearsMarched="2000-2003" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Lily Paulina" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Nora Robinson" yearsMarched="2000-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kathryn McLean" yearsMarched="2000-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Eriko Atagi" yearsMarched="2001-2003" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Madlyn Moskowitz" yearsMarched="2001-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Erin Wilke" yearsMarched="2001-2004" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Sarah Springsteen" yearsMarched="2001-2005" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Emily Breckenridge" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Abby Buchwach" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Corin Sayles" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Adrienne Harris" yearsMarched="2003" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Erin Mooney" yearsMarched="2004" additionalText="; Stick: 2000-2003" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Annalisa Grunwald" yearsMarched="2004-2005" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Melissa Beams" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Jen Cisler" yearsMarched="2004-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Victoria Langford" yearsMarched="2004-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Becky Shapiro" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Annaka Voss" yearsMarched="2005-2006" additionalText="" rankLeader="No" sectionLeader="No" bassbone="Yes" />
+	<bonebabe name="Catherine Castellana" yearsMarched="2005-2008" additionalText="; Staff: 2009" rankLeader="Yes" sectionLeader="Yes" bassbone="No" />
+	<bonebabe name="Amy Rydleski" yearsMarched="2005-2008" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Abby Johnson" yearsMarched="2006-2009" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kelsy Wilson" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="Yes" bassbone="No" />
+	<bonebabe name="Antoinette Ruffolo" yearsMarched="2007" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Sierra Cain" yearsMarched="2007-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Kaili McKnight" yearsMarched="2007-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Dore Deffebaugh" yearsMarched="2008-2009" additionalText="" rankLeader="No" sectionLeader="No" bassbone="Yes" />
+	<bonebabe name="Alexandra Genia" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Caitlin Northcutt" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Laura Lindgren" yearsMarched="2009-2012" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Molly Drlik" yearsMarched="2010-2013" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Breanna Duso" yearsMarched="2010-2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Grace Wolfe" yearsMarched="2010-2013" additionalText="" rankLeader="Yes" sectionLeader="Yes" bassbone="No" />
+	<bonebabe name="Natalie Blackwood" yearsMarched="2011-2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Elizabeth Smith" yearsMarched="2011-2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Katelyn Stover" yearsMarched="2011-2013" additionalText="" rankLeader="Yes" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Natalie Setterberg" yearsMarched="2012-2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Ellyse Vogel" yearsMarched="2012-2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Shawna Mulvihill" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Michaella DeRubeis" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Marie Gentile" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+	<bonebabe name="Allison George" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bassbone="No" />
+</bonebabes>

@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Maps.xslt" ?>
+
+<!--Ordered by Year ((1st)first year ascending, (2nd)final year ascending), then Alphabetic ((3rd)first name ascending)-->
+<locations>
+	<fromLocations>
+		<state name="">
+			<city name="">
+				<instance name="" text="" />
+			</city>
+		</state>
+		<state name="CA">
+			<city name="American Canyon">
+				<instance name="Dore Deffebaugh" text="2008-2009" />
+			</city>
+			<city name="Glendale">
+				<instance name="Tomoyuki Matsushima" text="2004-2007" />
+			</city>
+			<city name="Inglewood">
+				<instance name="DeAndre McCall" text="2005-2007" />
+			</city>
+			<city name="Moraga">
+				<instance name="Michael Harlow" text="2005-2008" />
+			</city>
+			<city name="San Marino">
+				<instance name="Noah Mathis" text="2013" />
+			</city>
+		</state>
+		<state name="AZ">
+			<city name="Scottsdale">
+				<instance name="Victoria Langford" text="2004-2007" />
+			</city>
+		</state>
+		<state name="TX">
+			<city name="El Paso">
+				<instance name="David Aguilar" text="2005-2008" />
+			</city>
+		</state>
+		<state name="NE">
+			<city name="Papillion">
+				<instance name="Sam Plumb" text="2013" />
+			</city>
+		</state>
+		<state name="WI">
+			<city name="Madison">
+				<instance name="Alexander Gebhart" text="2003-2005" />
+			</city>
+			<city name="Menasha">
+				<instance name="Brian Timm" text="2004-2006" />
+			</city>
+			<city name="Tomah">
+				<instance name="Jeffrey Arthur" text="2009" />
+			</city>
+		</state>
+		<state name="IL">
+			<city name="Glen Ellyn">
+				<instance name="Karl Weintraub" text="2002-2005" />
+			</city>
+			<city name="Highland Park">
+				<instance name="Jeffrey Atkins" text="2008-2011" />
+			</city>
+			<city name="Northbrook">
+				<instance name="Stephen Uy" text="2010-2012" />
+			</city>
+		</state>
+		<state name="MI">
+			<city name="Adrian">
+				<instance name="Kellen Marceau" text="2009-2013" />
+			</city>
+			<city name="Allen Park">
+				<instance name="John DeBono" text="2013" />
+			</city>
+			<city name="Ann Arbor">
+				<instance name="Brett Beel" text="2003-2005" />
+				<instance name="Paul Winterhalter" text="2003-2005" />
+				<instance name="Lewis Ezekiel" text="2004-2007" />
+				<instance name="Abby Johnson" text="2006-2009" />
+				<instance name="Kelsy Wilson" text="2006-2009" />
+				<instance name="Jonathan Bower" text="2010-2013" />
+				<instance name="Bill Grant" text="2011" />
+				<instance name="Chris Haddlesey" text="2011" />
+				<instance name="Patrick Wan" text="2012" />
+				<instance name="Nicholas Terrell" text="2012-2013" />
+			</city>
+			<city name="Bad Axe">
+				<instance name="Erin Mooney" text="2004" />
+			</city>
+			<city name="Battle Creek">
+				<instance name="Matt Busch" text="2010" />
+				<instance name="Santos Campos" text="2012-2013" />
+			</city>
+			<city name="Belleville">
+				<instance name="Matthew Rodriguez" text="2004-2007" />
+			</city>
+			<city name="Berkley">
+				<instance name="Mark Rulkowski" text="2008-2011" />
+			</city>
+			<city name="Birmingham">
+				<instance name="Catherine Castellana" text="2005-2008" />
+			</city>
+			<city name="Blissfield">
+				<instance name="Brian Cremean" text="2004-2006" />
+			</city>
+			<city name="Boyne City">
+				<instance name="Kevin Wroblewski" text="2012" />
+			</city>
+			<city name="Brooklyn">
+				<instance name="Ryan McKown" text="2006-2010" />
+			</city>
+			<city name="Canton"><!-- Canton is marked as Canton Township on the map -->
+				<instance name="Paul Sutherland" text="2005-2007" />
+			</city>
+			<city name="Carson City">
+				<instance name="Logan McClintic" text="2012-2013" />
+			</city>
+			<city name="Cass City">
+				<instance name="Timothy Khoury" text="2002-2005" />
+			</city>
+			<city name="Clinton Township">
+				<instance name="Jake Gondek" text="2012-2013" />
+				<instance name="Brett Zablocki" text="2013" />
+			</city>
+			<city name="Commerce Township">
+				<instance name="Brian Daniels" text="2011-2013" />
+				<instance name="Ryan O'Keefe" text="2013" />
+			</city>
+			<city name="Davison">
+				<instance name="Tyler Kane" text="2012-2013" />
+			</city>
+			<city name="Detroit">
+				<instance name="Sierra Cain" text="2007-2010" />
+			</city>
+			<city name="DeWitt">
+				<instance name="Zachary Ruch" text="2010-2013" />
+			</city>
+			<city name="Dexter">
+				<instance name="Daniel Roberts" text="2004-2007" />
+				<instance name="Sam Laidlaw" text="2010-2013" />
+			</city>
+			<city name="Durand">
+				<instance name="Samuel Cain" text="2013" />
+			</city>
+			<city name="East Grand Rapids">
+				<instance name="Greg King" text="1999-2000" />
+			</city>
+			<city name="East Lansing">
+				<instance name="Andrew Wood" text="2011-2013" />
+			</city>
+			<city name="Escanaba">
+				<instance name="Shane Myrik" text="2010-2013" />
+			</city>
+			<city name="Farmington Hills">
+				<instance name="Michael Carlson" text="2008-2011" />
+				<instance name="Kyle McDevitt" text="2008-2011" />
+				<instance name="Andrew Schumacher" text="2009-2013" />
+				<instance name="Neil Banchero-Smith" text="2011-2013" />
+				<instance name="Peter Romero" text="2013" />
+				<instance name="Timothy Schumacher" text="2013" />
+			</city>
+			<city name="Ferndale">
+				<instance name="Peter Ceglarek" text="2010-2011" />
+			</city>
+			<city name="Franklin">
+				<instance name="Adam Fisher" text="2010-2013" />
+			</city>
+			<city name="Galesburg">
+				<instance name="Anthony Fici" text="2013" />
+			</city>
+			<city name="Grandville">
+				<instance name="Eric Burkman" text="2004-2006" />
+			</city>
+			<city name="Grand Rapids">
+				<instance name="Jen Cisler" text="2004-2007" />
+				<instance name="Andrew Monks" text="2006" />
+				<instance name="Whitaker Martin" text="2006-2009" />
+			</city>
+			<city name="Grayling">
+				<instance name="Christopher Wells" text="2008-2011" />
+			</city>
+			<city name="Grosse Pointe Woods">
+				<instance name="Christopher Jenkins" text="2011-2013" />
+			</city>
+			<city name="Harrison Twp.">
+				<instance name="Mitch Bradley" text="2004-2007" />
+			</city>
+			<city name="Haslett">
+				<instance name="Jacob Zimmerman" text="2013" />
+			</city>
+			<city name="Hastings">
+				<instance name="Matthew Hoffman" text="2005-2007" />
+				<instance name="Jason Bies" text="2007-2010" />
+			</city>
+			<city name="Holland">
+				<instance name="Marco Krcatovich" text="2000-2004" />
+				<instance name="Natalie Setterberg" text="2012-2013" />
+			</city>
+			<city name="Holt">
+				<instance name="Brian Rudd" text="2003-2006" />
+			</city>
+			<city name="Howard City">
+				<instance name="Allen Fisher" text="2004-2007" />
+			</city>
+			<city name="Hudson">
+				<instance name="Eric Heininger" text="2003-2005" />
+			</city>
+			<city name="Hudsonville">
+				<instance name="Pete Dahl" text="2012-2013" />
+			</city>
+			<city name="Huntington Woods">
+				<instance name="Andrew Lapin" text="2007-2009" />
+			</city>
+			<city name="Jackson">
+				<instance name="Desmond Davis" text="2008" />
+				<instance name="Anthony Sexton" text="2012-2013" />
+			</city>
+			<city name="Jerome">
+				<instance name="Kaili McKnight" text="2007-2010" />
+			</city>
+			<city name="Lake Orion">
+				<instance name="Michael Roberts" text="2012-2013" />
+			</city>
+			<city name="Livonia">
+				<instance name="Jon Tap" text="2006-2008" />
+			</city>
+			<city name="Manistee">
+				<instance name="Laura Lindgren" text="2009-2012" />
+			</city>
+			<city name="Marshall">
+				<instance name="Devin Hurst" text="2003-2006" />
+			</city>
+			<city name="Marysville">
+				<instance name="Breanna Duso" text="2010-2013" />
+			</city>
+			<city name="Mason">
+				<instance name="Alexandra Genia" text="2008-2011" />
+			</city>
+			<city name="Midland">
+				<instance name="Andrew Mitchell" text="2008-2011" />
+				<instance name="Molly Drlik" text="2010-2013" />
+			</city>
+			<city name="Muskegon">
+				<instance name="Sean Collins" text="2005" />
+			</city>
+			<city name="New Boston">
+				<instance name="Greg Baker" text="2005-2008" />
+				<instance name="Antoinette Ruffolo" text="2007" />
+			</city>
+			<city name="New Buffalo">
+				<instance name="Natalie Blackwood" text="2011-2013" />
+			</city>
+			<city name="Northville">
+				<instance name="Caitlin Northcutt" text="2008-2011" />
+				<instance name="Ryuta Oshikiri" text="2008-2011" />
+				<instance name="Jeffrey Okala" text="2011-2012" />
+				<instance name="Yutaka Oshikiri" text="2011-2013" />
+			</city>
+			<city name="Novi">
+				<instance name="Jeffrey Gdowski" text="2001-2005" />
+				<instance name="Andrew Laskowski" text="2003-2006" />
+				<instance name="Chris Rodgers" text="2004-2008" />
+				<instance name="Jake Hoernschemeyer" text="2006-2009" />
+				<instance name="T.J. Wolfgram" text="2008, 2010" />
+			</city>
+			<city name="Onsted">
+				<instance name="Duane Breijak" text="2003-2007" />
+			</city>
+			<city name="Owosso">
+				<instance name="Allison George" text="2013" />
+			</city>
+			<city name="Parma">
+				<instance name="Timothy Collins" text="2005-2007" />
+			</city>
+			<city name="Pewamo">
+				<instance name="Joseph Stoddard" text="2010-2012" />
+			</city>
+			<city name="Plymouth">
+				<instance name="Marten Hawkins" text="2009-2011" />
+				<instance name="Nick Battishill" text="2011-2013" />
+			</city>
+			<city name="Portage">
+				<instance name="Jeremy Bronson" text="2002-2005" />
+				<instance name="Nathan Werme" text="2009-2012" />
+			</city>
+			<city name="Rapid River">
+				<instance name="Nathan Bennett" text="2005-2008" />
+			</city>
+			<city name="Redford">
+				<instance name="K. Scott Tripp" text="2007-2009" />
+			</city>
+			<city name="Rochester Hills">
+				<instance name="Brian Green" text="2003-2006" />
+				<instance name="Nick Gasperoni" text="2004-2007" />
+				<instance name="Jeffrey Zebrowski" text="2005-2008" />
+				<instance name="Michaella DeRubeis" text="2013" />
+			</city>
+			<city name="Saline">
+				<instance name="Annaka Voss" text="2005-2006" />
+				<instance name="Grace Wolfe" text="2010-2013" />
+				<instance name="Ian Wolfe" text="2013" />
+			</city>
+			<city name="Southgate">
+				<instance name="Marie Gentile" text="2013" />
+			</city>
+			<city name="South Haven">
+				<instance name="Shawna Mulvihill" text="2013" />
+			</city>
+			<city name="South Lyon">
+				<instance name="Eric Heininger" text="2003-2005" />
+				<instance name="Aaron Schoeff" text="2004-2007" />
+			</city>
+			<city name="St. Ignace">
+				<instance name="Sarah Springsteen" text="2001-2003, 2005" />
+			</city>
+			<city name="Sterling Heights">
+				<instance name="John Zalewski" text="2003-2006" />
+			</city>
+			<city name="Stevensville">
+				<instance name="Amy Rydleski" text="2005-2008" />
+			</city>
+			<city name="Taylor">
+				<instance name="Ikenna Anyanetu" text="2007-2009" />
+				<instance name="Adam Winnie" text="2010-2012" />
+				<instance name="Nathan Steeby" text="2012" />
+			</city>
+			<city name="Traverse City">
+				<instance name="Jesse Belanger" text="2008-2010" />
+				<instance name="Trent Hibbard" text="2010-2013" />
+			</city>
+			<city name="Temperance">
+				<instance name="Michael Bacon" text="2010-2013" />
+				<instance name="Elizabeth Smith" text="2011-2013" />
+			</city>
+			<city name="Trenton">
+				<instance name="John Eagal" text="2003-2006" />
+			</city>
+			<city name="Troy">
+				<instance name="Michael Carroll" text="2002-2005" />
+				<instance name="Jonathan Beaumont" text="2009-2012" />
+				<instance name="Stanley Smith" text="2012-2013" />
+			</city>
+			<city name="Vicksburg">
+				<instance name="Melissa Beams" text="2004-2007" />
+				<instance name="Christian Hatfield" text="2006-2009" />
+			</city>
+			<city name="Walker">
+				<instance name="Bill Melville" text="2005-2008" />
+			</city>
+			<city name="Warren">
+				<instance name="Matthew Vujovich" text="2007-2010" />
+				<instance name="Alexander Birch" text="2011-2013" />
+				<instance name="Ellyse Vogel" text="2012-2013" />
+			</city>
+			<city name="Watervliet">
+				<instance name="Taylor Gast" text="2006-2009" />
+			</city>
+			<city name="Wayne">
+				<instance name="Solomon Shurge" text="2009-2013" />
+			</city>
+			<city name="West Bloomfield">
+				<instance name="Mark Coldren" text="2010-2011" />
+			</city>
+			<city name="White Cloud">
+				<instance name="Keith Trice" text="2003-2005" />
+			</city>
+			<city name="Williamsburg">
+				<instance name="Ryan Parlin" text="2010-2012" />
+			</city>
+			<city name="Williamston">
+				<instance name="Annalisa Grunwald" text="2004-2005" />
+			</city>
+			<city name="Zeeland">
+				<instance name="Kyle Lutz" text="2009-2010" />
+			</city>
+		</state>
+		<state name="IN">
+			<city name="Lebanon">
+				<instance name="Zachary Wall" text="2013" />
+			</city>
+		</state>
+		<state name="AL">
+			<city name="Madison">
+				<instance name="Michael Spratley" text="2003-2005" />
+			</city>
+		</state>
+		<state name="OH">
+			<city name="Columbus">
+				<instance name="Becky Shapiro" text="2004-2007" />
+			</city>
+			<city name="Dublin">
+				<instance name="Bryan DeGrendel" text="2005-2008" />
+			</city>
+			<city name="Wilmington">
+				<instance name="Joseph Lohrum" text="2002-2006" />
+			</city>
+			<city name="Wooster">
+				<instance name="Jack Hall" text="2006-2007" />
+			</city>
+		</state>
+		<state name="GA">
+			<city name="Atlanta">
+				<instance name="Trevor Dworetz" text="2011-2013" />
+			</city>
+		</state>
+		<state name="FL">
+			<city name="Winter Garden">
+				<instance name="Clay Mikush" text="2012-2013" />
+			</city>
+		</state>
+		<state name="VA">
+			<city name="Newport News">
+				<instance name="Chris Butler" text="2003-2006" />
+			</city>
+		</state>
+		<state name="DE">
+			<city name="Newark">
+				<instance name="Peter Chi" text="2000-2002" />
+			</city>
+		</state>
+		<state name="PA">
+			<city name="Malvern">
+				<instance name="Brian Herrick" text="2006-2009" />
+			</city>
+		</state>
+		<state name="NJ">
+			<city name="Basking Ridge">
+				<instance name="Katelyn Stover" text="2011-2013" />
+			</city>
+			<city name="Medford">
+				<instance name="Eric Pesch" text="2009-2012" />
+			</city>
+			<city name="Pennington">
+				<instance name="Darren Gross" text="2010-2013" />
+			</city>
+			<city name="Westfield">
+				<instance name="Alex Ying" text="2013" />
+			</city>
+		</state>
+		<state name="NY">
+			<city name="Brewster">
+				<instance name="Richie Grasso" text="2008" />
+			</city>
+			<city name="Highland">
+				<instance name="Jason Krystek" text="2009-2011" />
+			</city>
+			<city name="Williamsville">
+				<instance name="Max Lustig" text="2010-2013" />
+			</city>
+		</state>
+		<state name="CT">
+			<city name="Gales Ferry">
+				<instance name="Ian Baker" text="2011-2013" />
+			</city>
+		</state>
+	</fromLocations>
+	<homeLocations>
+		<state name="WA">
+			<city name="Seattle">
+				<instance name="Brian Timm" text="2004-2006" />
+				<instance name="Jen Cisler" text="2004-2007" />
+			</city>
+		</state>
+		<state name="CA">
+			<city name="Hermosa Beach">
+				<instance name="John Zalewski" text="2003-2006" />
+			</city>
+			<city name="San Francisco">
+				<instance name="Ryuta Oshikiri" text="2008-2011" />
+			</city>
+			<city name="San Luis Obispo">
+				<instance name="Peter Chi" text="2000-2002" />
+			</city>
+		</state>
+		<state name="TX">
+			<city name="Austin">
+				<instance name="Ian Kahn" text="2000-2003" />
+			</city>
+			<city name="Dallas">
+				<instance name="Amy Rydleski" text="2005-2008" />
+			</city>
+		</state>
+		<state name="MN">
+			<city name="St. Paul">
+				<instance name="Michael Harlow" text="2005-2008" />
+			</city>
+		</state>
+		<state name="MS">
+			<city name="Starkville">
+				<instance name="Jason Bies" text="2007-2010" />
+			</city>
+		</state>
+		<state name="IL">
+			<city name="Chicago">
+				<instance name="Eric Heininger" text="2003-2005" />
+			</city>
+		</state>
+		<state name="MI">
+			<city name="Ann Arbor">
+				<instance name="Nathan Werme" text="2009-2012" />
+			</city>
+			<city name="Grand Rapids">
+				<instance name="Greg King" text="1999-2000" />
+			</city>
+		</state>
+		<state name="MD">
+			<city name="Nottingham">
+				<instance name="Erin Mooney" text="2004" />
+			</city>
+		</state>
+		<state name="CT">
+			<city name="New Haven">
+				<instance name="Eric Heininger" text="2003-2005" />
+				<instance name="Brian Green" text="2003-2006" />
+			</city>
+		</state>
+		<state name="Spain">
+			<city name="Lugo">
+				<instance name="Bill Melville" text="2005-2008" />
+			</city>
+		</state>
+		<state name="France">
+			<city name="Paris">
+				<instance name="Kelsy Wilson" text="2006-2009" />
+			</city>
+		</state>
+		<state name="Germany">
+			<city name="Meitingen">
+				<instance name="Ryan McKown" text="2006-2010" />
+			</city>
+		</state>
+	</homeLocations>
+	<bowlTripLocations>
+	</bowlTripLocations>
+	<boneTripLocations>
+	</boneTripLocations>
+</locations>

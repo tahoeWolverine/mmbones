@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Bassbones.xslt" ?>
+
+<!--Ordered by Year ((1st)first year ascending, (2nd)final year ascending), then Alphabetic ((3rd)first name ascending)-->
+<bassbones year="2013">
+	<bassbone name="Justin Hammis" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" />
+	<bassbone name="Geoff Hanson" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Garrett Mendez" yearsMarched="1999-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Andy Cheng" yearsMarched="1999-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Adam Redstone" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Jeremy Bronson" yearsMarched="2002-2005" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Eric Heininger" yearsMarched="2003-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Aaron Schoeff" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Annaka Voss" yearsMarched="2006" additionalText="; Bone: 2005" rankLeader="No" sectionLeader="No" bonebabe="Yes" />
+	<bassbone name="Matthew Rodriguez" yearsMarched="2006-2007" additionalText="; Bone: 2004-2005" rankLeader="Yes" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Jason Bies" yearsMarched="2007-2010" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Dore Deffebaugh" yearsMarched="2008-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" />
+	<bassbone name="Jake Hoernschemeyer" yearsMarched="2008-2009" additionalText="; Bone: 2006-2007" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="T.J. Wolfgram" yearsMarched="2008, 2010" additionalText="; Tuba: 2007" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Kyle McDevitt" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Ryan Parlin" yearsMarched="2010-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Joseph Stoddard" yearsMarched="2010-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Stephen Uy" yearsMarched="2010-2012" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Jeffrey Okala" yearsMarched="2011-2012" additionalText="; DM: 2013" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Kevin Wroblewski" yearsMarched="2012" additionalText="; Tuba: 2009-2011" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="John DeBono" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Noah Mathis" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Timothy Schumacher" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Alex Ying" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<bassbone name="Brent Zablocki" yearsMarched="2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" />
+</bassbones>

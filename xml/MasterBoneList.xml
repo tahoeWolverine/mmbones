@@ -1,0 +1,2143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/BoneTable.xslt" ?>
+
+<!--Ordered by Year ((1st)first year ascending, (2nd)final year ascending), then Alphabetic ((3rd)first name ascending)-->
+<bones asOf="April 1, 2012">
+	<bone name="" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mark R. Zingle" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1970" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1971" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1972" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1973" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1974" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1975" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Victor Johnson" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1972" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1973" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1974" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kirk N. Zingle" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1974" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bone">
+			<year value="1976" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Doug Henkelman" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1977" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1978" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1979" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Steve Roberts" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1979" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1980" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="DM">
+			<year value="1981" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+			<year value="1982" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+			<year value="1983" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+		</years>
+		<years instrument="Grad Staff">
+			<year value="1984" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+			<year value="1985" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+		</years>
+		<years instrument="Asst. Director">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Asst. Director" />
+		</years>
+	</bone>
+	<bone name="J. Scot Tweedie" email="jstweed@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1980" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kevin Ross" email="kwross@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1981" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1982" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1983" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1984" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1985" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="DM">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+		</years>
+	</bone>
+	<bone name="Greg Poterala" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1982" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1983" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1984" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1985" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jim 'Armstrong' Montgomery" email="monty@jpl.nasa.gov" hometown="" location="" nickname="Armstrong" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1982" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1983" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1984" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1985" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeff Stokes" email="jstokes@adacplastics.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="DM">
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+		</years>
+		<years instrument="Staff">
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+		</years>
+	</bone>
+	<bone name="Fred Kessler" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Len Kamlet" email="kamlet@comcast.net" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Dave Krone" email="bonesrule@intelassets.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mike 'Biscuit' Wisbiski" email="MikeWisbiski@gmail.com" hometown="" location="" nickname="Biscuit" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1986" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Joe Grekin" email="joegrekin@schaferandweiner.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kevin Karr" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Paul Hensel" email="phensel@mac.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1987" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1988" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeff Lawrence" email="jeff.s.lawrence@gmail.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jenn McKee" email="jmckee@annarbornews.com" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1989" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Knoll" email="s3pilot00@aol.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="Staff">
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+		</years>
+	</bone>
+	<bone name="Carol Trapp" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1990" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Shone Brooks" email="shonebrooks@gmail.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1991" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Seth Altman" email="sgaltman@hotmail.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1992" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kim Kardasz" email="kimcl@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<!--Carl Poposki was the fanfare band director 96-97-->
+	<bone name="Carl Poposki" email="cjpops76@yahoo.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sven Sawin" email="watrous@bf.umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1993" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tyson Gatermann" email="tysong@med.umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Campbell" email="chriscam@umich.edu" hometown="" location="" nickname="Crunchy" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Rich Hamann" email="rhamann@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mark Johnson" email="mbj22@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Low" email="michael_low2@yahoo.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Lenton Joby Morrow" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1994" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tiffany Brand" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Venetta Smith" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Eric Richmond" email="edr@thelastbyte.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Romelhardt" email="awromelh@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1995" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jonathan Chaffer" email="jchaffer@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeff Fildey" email="jeffildy@yahoo.com" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chad O'Neill" email="chado@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Steve Booth" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Brand" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mike Fein" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Horny" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Kendall" email="kendallm@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="John Malkovich" email="malko@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeff Rash" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Joel Sefcovic" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Steve Vachon" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jason Kramb" email="krambjas@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jacob Balazer" email="balazerbone@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeremy Mollison" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1996" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Neil Russell" email="nrussell@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Bradford Dillon" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Damon Grosz" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Ribbens" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andy Holmes" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Bob Krentler" email="rkrentle@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andy Masi" email="amasi@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sara Patrick" email="slpatric@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Katie Polasek" email="kpolasek@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tim Schimpf" email="tschimpf@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1997" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Stephanie Perry" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mike Santos" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryan Sult" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Melissa Clubine" email="mclubine@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Justin Bowler" email="jbowler@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mike Grunwald" email="grunwami@msn.com" hometown="" location="" nickname="" house="719" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Justin Hammis" email="" hometown="" location="" nickname="Hammer" house="719" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Geoff Hanson" email="geoffhanson@sbcglobal.net" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matthew Kittle" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Mount" email="bmount@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Greg Pappas" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tim Springer" email="tspringe@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryan Thomas" email="rpthomas@umich.edu" hometown="" location="" nickname="Mockingbird" house="719" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Cavanaugh" email="mccavana@umich.edu" hometown="" location="" nickname="Cavi" house="719" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1998" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+		<years instrument="DM">
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+		</years>
+	</bone>
+	<bone name="Brian Anderson" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mark Hannah" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Joseph McInchak" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Richard Plotkin" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Josh Simanskey" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Lisa Slepetski" email="lslepets@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Charles Vogel" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Greg King" email="gsking@umich.edu" hometown="East Grand Rapids, MI" location="Grand Rapids, MI" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Justin Knorr" email="" hometown="" location="" nickname="Knorr" house="719" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Garrett Mendez" email="gamendez@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Graham" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jethro Law" email="lawj@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nicholas Enlow" email="nenlow@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeff Everett" email="jdeveret@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kathleen Nylan" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Amy Wells" email="awells@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andy Cheng" email="andycheng8@gmail.com" hometown="" location="" nickname="Chenga" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kristi Schmitt" email="kschmitz@umich.edu" hometown="" location="" nickname="Chewy" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="1999" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Peter Chi" email="pbchi@umich.edu" hometown="Newark, DE" location="Seattle, WA" nickname="Chi" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Terry Foster" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mike Moffitt" email="mmoffitt@umich.edu" hometown="" location="" nickname="The Prophet" house="936" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Blake Coe" email="coeb@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Beth Johnston" email="bajohnst@umich.edu" hometown="" location="" nickname="" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ian Kahn" email="ikahn@umich.edu" hometown="" location="" nickname="Kahn" house="936" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Lily Paulina" email="lpaulina@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Adam Redstone" email="aredston@umich.edu" hometown="" location="" nickname="Screech" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="" />
+		</years>
+	</bone>
+	<bone name="Nora Robinson" email="elrobins@umich.edu" hometown="" location="" nickname="Nickel" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Marco Krcatovich" email="mkrcatov@umich.edu" hometown="Holland, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kathryn McLean" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Steve Paternel" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Phil Muirhead" email="pmuirhead@umich.edu" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Eriko Atagi" email="eatagi@umich.edu" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Peter Brown" email="brownpa@umich.edu" hometown="" location="" nickname="Brownpa" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Alexander Byrne" email="" hometown="" location="" nickname="Kneehigh, A-Train" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Madlyn Moskowitz" email="" hometown="" location="" nickname="" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sanjay Newton" email="newtonss@umich.edu" hometown="" location="" nickname="Suitcase" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Erin Wilke" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeffrey Gdowski" email="jgdowski@gmail.com" hometown="Novi, MI" location="" nickname="CHUD" house="936" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2004" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2005" yearInSchool="5" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sarah Springsteen" email="sarahm.springsteen@gmail.com" hometown="St. Ignace, MI" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2001" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2002" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bone">
+			<year value="2005" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jordan Armstrong" email="" hometown="" location="" nickname="Princess" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Shane Mally" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Emily Breckenridge" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Abby Buchwach" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Corin Sayles" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeremy Bronson" email="" hometown="Portage, MI" location="" nickname="Bronson" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Carroll" email="" hometown="Troy, MI" location="" nickname="COOTER" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Timothy Khoury" email="" hometown="Cass City, MI" location="" nickname="Timmy K" house="936" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Karl Weintraub" email="" hometown="Glen Ellyn, IL" location="" nickname="Hot Karl" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Joseph Lohrum" email="" hometown="Wilmington, OH" location="" nickname="JLo" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2002" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Adrienne Harris" email="" hometown="" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Daniel Rector" email="" hometown="" location="" nickname="Shittooth" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brett Beel" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Alexander Gebhart" email="" hometown="Madison, WI" location="" nickname="" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Eric Heininger" email="" hometown="Hudson, MI" location="New Haven, CT" nickname="Heini" house="936" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Spratley" email="" hometown="Madison, AL" location="" nickname="PANTS" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Keith Trice" email="" hometown="White Cloud, MI" location="" nickname="The Truth" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="3" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+			<year value="2005" yearInSchool="4" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Paul Winterhalter" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Butler" email="" hometown="Newport News, VA" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="John Eagal" email="" hometown="Trenton, MI" location="" nickname="Jeagal" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Green" email="" hometown="Rochester Hills, MI" location="New Haven, CT" nickname="BM Green, Phil" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Devin Hurst" email="" hometown="Marshall, MI" location="" nickname="" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Laskowski" email="" hometown="Novi, MI" location="" nickname="Drewski" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Rudd" email="brianrudd@gmail.com" hometown="Holt, MI" location="" nickname="Rudd" house="936" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="John Zalewski" email="zaljoh@umich.edu" hometown="Sterling Heights, MI" location="Hermosa Beach, CA" nickname="Zale" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Duane Breijak" email="dbreijak@gmail.com" hometown="Onsted, MI" location="" nickname="Scrumble" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2003" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2004" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2007" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Lee" email="" hometown="" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Erin Mooney" email="emooney@umich.edu" hometown="Bad Axe, MI" location="Nottingham, MD" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="Stick">
+			<year value="2000" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Stick" />
+			<year value="2001" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Stick" />
+			<year value="2002" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Stick" />
+			<year value="2003" yearInSchool="" sectionLeader="No" rankLeader="No" otherInstrument="Stick" />
+		</years>
+	</bone>
+	<bone name="Annalisa Grunwald" email="annalisagrunwald@gmail.com" hometown="Williamston, MI" location="" nickname="" house="516" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Eric Burkman" email="" hometown="Grandville, MI" location="" nickname="Burkman" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Cremean" email="" hometown="Blissfield, MI" location="" nickname="Creamy" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Timm" email="" hometown="Menasha, WI" location="" nickname="Big Ten" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Melissa Beams" email="mabeams@umich.edu" hometown="Vicksburg, MI" location="" nickname="Ma Beams" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mitch Bradley" email="" hometown="Harrison Twp., MI" location="" nickname="" house="516" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jen Cisler" email="jen.cisler@gmail.com" hometown="Grand Rapids, MI" location="" nickname="" house="516" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Lewis Ezekiel" email="" hometown="Ann Arbor, MI" location="" nickname="" house="516" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Allen Fisher" email="" hometown="Howard City, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nick Gasperoni" email="" hometown="Rochester Hills, MI" location="" nickname="The Don" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Victoria Langford" email="" hometown="Scottsdale, AZ" location="" nickname="Tori" house="516" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tomoyuki Matsushima" email="" hometown="Glendale, CA" location="" nickname="Yuki" house="611" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Daniel Roberts" email="" hometown="Dexter, MI" location="" nickname="DRob" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matthew Rodriguez" email="" hometown="Belleville, MI" location="" nickname="MRod" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bassbone">
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Aaron Schoeff" email="" hometown="South Lyon, MI" location="" nickname="Shoeff" house="711" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Becky Shapiro" email="beckshap@gmail.com" hometown="Columbus, OH" location="" nickname="" house="516" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Rodgers" email="ctrodgers@gmail.com" hometown="Novi, MI" location="" nickname="Crappy Pancake, CRodge" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sean Collins" email="" hometown="Muskegon, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Annaka Voss" email="" hometown="Saline, MI" location="" nickname="Handlebars" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bassbone">
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Timothy Collins" email="" hometown="Parma, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matthew Hoffman" email="" hometown="Hastings, MI" location="" nickname="Matt in the Hat" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="DeAndre McCall" email="" hometown="Inglewood, CA" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="Alto Sax">
+			<year value="2004" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="Alto Sax" />
+		</years>
+	</bone>
+	<bone name="Paul Sutherland" email="paulsuth@umich.edu" hometown="Canton, MI" location="" nickname="PSuth" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="David Aguilar" email="aguilar.dave@gmail.com" hometown="El Paso, TX" location="" nickname="OEP" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Greg Baker" email="" hometown="New Boston, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nathan Bennett" email="" hometown="Rapid River, MI" location="" nickname="Dirk" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Catherine Castellana" email="" hometown="Birmingham, MI" location="" nickname="" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+		</years>
+		<years instrument="Staff">
+			<year value="2009" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+			<year value="2010" yearInSchool="6" sectionLeader="No" rankLeader="No" otherInstrument="Staff" />
+		</years>
+	</bone>
+	<bone name="Bryan DeGrendel" email="" hometown="Dublin, OH" location="" nickname="DeGrendel" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Harlow" email="harlomic@gmail.com" hometown="Moraga, CA" location="" nickname="Pinto" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Bill Melville" email="willmelv@gmail.com" hometown="Walker, MI" location="Lugo, Spain" nickname="Sideshow" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Amy Rydleski" email="rydleski@umich.edu" hometown="Stevensville, MI" location="" nickname="MPC" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeffrey Zebrowski" email="" hometown="Rochester Hills, MI" location="" nickname="Zebrow" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2005" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Monks" email="" hometown="Grand Rapids, MI" location="" nickname="Two Hole" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jack Hall" email="" hometown="Wooster, OH" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jon Tap" email="" hometown="Livonia, MI" location="" nickname="Floppy D, Plucky" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Taylor Gast" email="" hometown="Watervliet, MI" location="" nickname="T$" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Christian Hatfield" email="christmanx@gmail.com" hometown="Vicksburg, MI" location="" nickname="" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Herrick" email="" hometown="Malvern, PA" location="" nickname="Sugar Lips" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jake Hoernschemeyer" email="jhoernsch@gmail.com" hometown="Novi, MI" location="" nickname="Horse Fucker" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="bassbone">
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Abby Johnson" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Whitaker Martin" email="whitakma@gmail.com" hometown="Grand Rapids, MI" location="" nickname="Whit" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kelsy Wilson" email="" hometown="Ann Arbor, MI" location="Marseilles, France" nickname="POOTER" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryan McKown" email="" hometown="Brooklyn, MI" location="Meitingen, Germany" nickname="CHUD Light" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2006" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="5" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Antoinette Ruffolo" email="" hometown="New Boston, MI" location="" nickname="Saltine" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ikenna Anyanetu" email="" hometown="Taylor, MI" location="Ann Arbor, MI" nickname="Ike" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Lapin" email="alapin730@gmail.com" hometown="Huntington Woods, MI" location="Ann Arbor, MI" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="K. Scott Tripp" email="" hometown="Redford, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jason Bies" email="skasonbies@gmail.com" hometown="Hastings, MI" location="Ann Arbor, MI" nickname="Bies" house="725" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sierra Cain" email="" hometown="Detroit, MI" location="Ann Arbor, MI" nickname="" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2010" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kaili McKnight" email="kailimck@gmail.com" hometown="Jerome, MI" location="Ann Arbor, MI" nickname="Malibu" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matthew Vujovich" email="" hometown="Warren, MI" location="Ann Arbor, MI" nickname="Vujayjay" house="711" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Desmond Davis" email="" hometown="Jackson, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Richie Grasso" email="" hometown="Brewster, NY" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Dore Deffebaugh" email="" hometown="American Canyon, CA" location="" nickname="Duffelbag" house="" bonebabe="Yes" current="No">
+		<years instrument="bassbone">
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jesse Belanger" email="" hometown="Traverse City, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="T.J. Wolfgram" email="tjwolfg@gmail.com" hometown="Novi, MI" location="" nickname="Captain America" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2008" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="Tuba">
+			<year value="2007" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="Tuba" />
+		</years>
+	</bone>
+	<bone name="Jeffrey Atkins" email="" hometown="Highland Park, IL" location="" nickname="Load, Hawkeye" house="149" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Carlson" email="" hometown="Farmington Hills, MI" location="" nickname="Tahoe" house="149" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Alexandra Genia" email="" hometown="Mason, MI" location="" nickname="Ali G" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kyle McDevitt" email="" hometown="Farmington Hills, MI" location="" nickname="FAWK" house="149" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Mitchell" email="" hometown="Midland, MI" location="" nickname="Squints, Blanky" house="149" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Caitlin Northcutt" email="" hometown="Northville, MI" location="" nickname="Soco w/ Lime" house="811" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryuta Oshikiri" email="" hometown="Northville, MI" location="" nickname="Quickie, Cookie" house="149" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mark Rulkowski" email="" hometown="Berkley, MI" location="" nickname="Boot" house="725" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Christopher Wells" email="" hometown="Grayling, MI" location="" nickname="CWells" house="725, 149" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2008" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeffrey Arthur" email="" hometown="Tomah, WI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kyle Lutz" email="klutzylutzy@gmail.com" hometown="Zeeland, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Marten Hawkins" email="" hometown="Plymouth, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jason Krystek" email="" hometown="Highland, NY" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jonathan Beaumont" email="" hometown="Troy, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Laura Lindgren" email="" hometown="Manistee, MI; Hutchinson, KS" location="" nickname="" house="" bonebabe="Yes" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Eric Pesch" email="" hometown="Medford, NJ" location="" nickname="Speedbump" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nathan Werme" email="" hometown="Portage, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kellen Marceau" email="" hometown="Adrian, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Schumacher" email="" hometown="Farmington Hills, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2013" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Solomon Shurge" email="" hometown="Wayne, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="5" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Matt Busch" email="" hometown="Battle Creek, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Peter Ceglarek" email="" hometown="Ferndale, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Mark Coldren" email="" hometown="West Bloomfield, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Trent Hibbard" email="" hometown="Traverse City, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryan Parlin" email="" hometown="Williamsburg, MI" location="" nickname="Chonk" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Joseph Stoddard" email="" hometown="Pewamo, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Adam Winnie" email="" hometown="Taylor, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Stephen Uy" email="" hometown="Northbrook, IL" location="" nickname="Upgrasian" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Bacon" email="" hometown="Temperance, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jonathan Bower" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Molly Drlik" email="" hometown="Midland, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Breanna Duso" email="" hometown="Marysville, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Adam Fisher" email="" hometown="Franklin, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Darren Gross" email="" hometown="Pennington, NJ" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sam Laidlaw" email="" hometown="Dexter, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Max Lustig" email="" hometown="Williamsville, NY" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Shane Myrik" email="" hometown="Escanaba, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Zachary Ruch" email="" hometown="DeWitt, MI" location="" nickname="Bean Dip" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Grace Wolfe" email="" hometown="Saline, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2010" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2011" yearInSchool="2" sectionLeader="Yes" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="3" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="Yes" rankLeader="Yes" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Bill Grant" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Chris Haddlesey" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jeffrey Okala" email="" hometown="Northville, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="DM">
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="DM" />
+		</years>
+	</bone>
+	<bone name="Ian Baker" email="" hometown="Gales Ferry, CT" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Neil Banchero-Smith" email="" hometown="Farmington Hills, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nick Battishill" email="" hometown="Plymouth, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Alexander Birch" email="" hometown="Warren, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Natalie Blackwood" email="" hometown="New Buffalo, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brian Daniels" email="" hometown="Commerce Township, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Trevor Dworetz" email="" hometown="Atlanta, GA" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Christopher Jenkins" email="" hometown="Grosse Pointe Woods, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Yutaka Oshikiri" email="" hometown="Northville, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Elizabeth Smith" email="" hometown="Temperance, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Katelyn Stover" email="" hometown="Basking Ridge, NJ" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Andrew Wood" email="" hometown="East Lansing, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2011" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Charles Matrosic" email="" hometown="Holland, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nathaniel Steeby" email="" hometown="Taylor, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Patrick Wan" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Kevin Wroblewski" email="" hometown="Boyne City, MI" location="" nickname="" house="" bonebabe="No" current="No">
+		<years instrument="bassbone">
+			<year value="2012" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+		<years instrument="tuba">
+			<year value="2009" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="Tuba" />
+			<year value="2010" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="Tuba" />
+			<year value="2011" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="Tuba" />
+		</years>
+	</bone>
+	<bone name="Anthony Sexton" email="" hometown="Jackson, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="4" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Derek Shaffer" email="" hometown="Livonia, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="3" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Santos Campos" email="" hometown="Battle Creek, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Pete Dahl" email="" hometown="Hudsonville, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jake Gondek" email="" hometown="Clinton Twp., MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Tyler Kane" email="" hometown="Davison, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Logan McClintic" email="" hometown="Carson City, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Clay Mikush" email="" hometown="Winter Garden, FL" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michael Roberts" email="" hometown="Lake Orion, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Natalie Setterberg" email="" hometown="Holland, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Stanley Smith" email="" hometown="Troy, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Nicholas Terrell" email="" hometown="Ann Arbor, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ellyse Vogel" email="" hometown="Warren, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2012" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+			<year value="2013" yearInSchool="2" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Shawna Mulvihill" email="" hometown="South Haven, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Allison George" email="" hometown="Owosso, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Samuel Cain" email="" hometown="Durand, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="John DeBono" email="" hometown="Allen Park, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Michaella DeRubeis" email="" hometown="Rochester Hills, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Anthony Fici" email="Galesburg, MI" hometown="" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Marie Gentile" email="" hometown="Southgate, MI" location="" nickname="" house="" bonebabe="Yes" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Noah Mathis" email="" hometown="San Marino, CA" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ryan O'Keefe" email="" hometown="Commerce, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Sam Plumb" email="" hometown="Papillion, NE" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Peter Romero" email="" hometown="Farmington Hills, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Timothy Schumacher" email="" hometown="Farmington Hills, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Zachary Wall" email="" hometown="Lebanon, IN" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Ian Wolfe" email="" hometown="Saline, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Alex Ying" email="" hometown="Westfield, NJ" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Brent Zablocki" email="" hometown="Clinton Township, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bassbone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+	<bone name="Jacob Zimmerman" email="" hometown="Haslett, MI" location="" nickname="" house="" bonebabe="No" current="Yes">
+		<years instrument="bone">
+			<year value="2013" yearInSchool="1" sectionLeader="No" rankLeader="No" otherInstrument="No" />
+		</years>
+	</bone>
+</bones>

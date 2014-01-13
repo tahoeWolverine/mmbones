@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLT/Fossils.xslt" ?>
+
+<!--Ordered by Year ((1st)first year ascending, (2nd)final year ascending), then Alphabetic ((3rd)first name ascending)-->
+<fossils year="2013">
+	<fossil name="Mark R. Zingle" email="" yearsMarched="1970-1975" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Victor Johnson" email="" yearsMarched="1972-1974" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kirk N. Zingle" email="" yearsMarched="1974, 1976" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Doug Henkelman" email="" yearsMarched="1977-1979" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Steve Roberts" email="" yearsMarched="1979-1980" additionalText="; DM: 1981-1983; Staff: 1984-1985; Asst. Director: 1986" rankLeader="No" sectionLeader="No" bonebabe="No" />
+	<fossil name="J. Scot Tweedie" email="jstweed@umich.edu" yearsMarched="1980" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kevin Ross" email="kwross@umich.edu" yearsMarched="1981-1985" additionalText="; DM: 1986" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Greg Poterala" email="" yearsMarched="1982-1985" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jim 'Armstrong' Montgomery" email="monty@jpl.nasa.gov" yearsMarched="1982-1986" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeff Stokes" email="jstokes@adacplastics.com" yearsMarched="1986-1987" additionalText="; DM: 1988-1989; Staff: 1990-1991" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Fred Kessler" email="fred.kessler@aig.com" yearsMarched="1986-1988" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Len Kamlet" email="kamlet@comcast.net" yearsMarched="1986-1989" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Dave Krone" email="bonesrule@intelassets.com" yearsMarched="1986-1990" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mike 'Biscuit' Wisbiski" email="MikeWisbiski@gmail.com" yearsMarched="1986-1991" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Joe Grekin" email="joegrekin@schaferandweiner.com" yearsMarched="1987-1990" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kevin Karr" email="" yearsMarched="1987-1990" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Paul Hensel" email="phensel@mac.com" yearsMarched="1987-1991" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeff Lawrence" email="jeff.s.lawrence@gmail.com" yearsMarched="1989-1992" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jenn McKee" email="jmckee@annarbornews.com" yearsMarched="1989-1992, 1994" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Brian Knoll" email="s3pilot00@aol.com" yearsMarched="1990-1992" additionalText="; Staff: 1993" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Carol Trapp" email="" yearsMarched="1990-1994" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Shone Brooks" email="shonebrooks@gmail.com" yearsMarched="1991-1994" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Seth Altman" email="sgaltman@hotmail.com" yearsMarched="1992-1995" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kim Kardasz" email="kimcl@umich.edu" yearsMarched="1993-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Carl Poposki" email="cjpops76@yahoo.com" yearsMarched="1993-1997" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Sven Sawin" email="watrous@bf.umich.edu" yearsMarched="1993-1997" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Tyson Gatermann" email="tysong@med.umich.edu" yearsMarched="1994-1996" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Chris Campbell" email="chriscam@umich.edu" yearsMarched="1994-1997" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Rich Hamann" email="rhamann@umich.edu" yearsMarched="1994-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mark Johnson" email="mbj22@umich.edu" yearsMarched="1994-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Michael Low" email="michael_low2@yahoo.com" yearsMarched="1994-1997" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Lenton Joby Morrow" email="" yearsMarched="1994-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Tiffany Brand" email="" yearsMarched="1995-1998" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Venetta Smith" email="" yearsMarched="1995-1998" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Eric Richmond" email="edr@thelastbyte.com" yearsMarched="1995-1998" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andrew Romelhardt" email="awromelh@umich.edu" yearsMarched="1995-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jonathan Chaffer" email="juchaffer@umich.ed" yearsMarched="1996-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeff Fildey" email="jeffildy@yahoo.com" yearsMarched="1996-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Chad O'Neill" email="chado@umich.edu" yearsMarched="1996-1997" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Steve Booth" email="" yearsMarched="1996-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Chris Brand" email="" yearsMarched="1996-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mike Fein" email="" yearsMarched="1996-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Matt Horny" email="" yearsMarched="1996-1999" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Matt Kendall" email="kendallm@umich.edu" yearsMarched="1996-1999" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="John Malkovich" email="malko@umich.edu" yearsMarched="1996-1999" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeff Rash" email="" yearsMarched="1996-1999" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Joel Sefcovic" email="" yearsMarched="1996-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Steve Vachon" email="" yearsMarched="1996-1999" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jason Kramb" email="krambjas@umich.edu" yearsMarched="1996-1998, 2000" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jacob Balazer" email="balazerbone@umich.edu" yearsMarched="1996-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeremy Mollison" email="" yearsMarched="1996-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Neil Russell" email="nrussell@umich.edu" yearsMarched="1997-1998" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Bradford Dillon" email="" yearsMarched="1997-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Damon Grosz" email="" yearsMarched="1997-1999" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Matt Ribbens" email="" yearsMarched="1997-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andy Holmes" email="" yearsMarched="1997-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Bob Krentler" email="rkrentle@umich.edu" yearsMarched="1997-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andy Masi" email="amasi@umich.edu" yearsMarched="1997-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Sara Patrick" email="slpatric@umich.edu" yearsMarched="1997-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Katie Polasek" email="kpolasek@umich.edu" yearsMarched="1997-2000" additionalText="" rankLeader="Yes" sectionLeader="Yes" bonebabe="Yes" bassbone="No" />
+	<fossil name="Tim Schimpf" email="tschimpf@umich.edu" yearsMarched="1997-2000" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Stephanie Perry" email="" yearsMarched="1998" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Mike Santos" email="" yearsMarched="1998-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Ryan Sult" email="" yearsMarched="1998-1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Melissa Clubine" email="mclubine@umich.edu" yearsMarched="1998-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Justin Bowler" email="jbowler@umich.edu" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mike Grunwald" email="grunwami@msn.com" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Justin Hammis" email="" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="Yes" />
+	<fossil name="Geoff Hanson" email="geoffhanson@sbcglobal.net" yearsMarched="1998-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Matthew Kittle" email="" yearsMarched="1998-2001" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" diplay="No" />
+	<fossil name="Brian Mount" email="bmount@umich.edu" yearsMarched="1998-1999, 2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Greg Pappas" email="" yearsMarched="1998=2001" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Tim Springer" email="tspringe@umich.edu" yearsMarched="1998-2001" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Ryan Thomas" email="rpthomas@umich.edu" yearsMarched="1998-2002" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Matt Cavanaugh" email="mccavana@umich.edu" yearsMarched="1998-2001" additionalText="; DM: 2002-2003" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Anderson" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mark Hannah" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Joseph McInchak" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Richard Plotkin" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Josh Simanskey" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Lisa Slepetski" email="lslepets@umich.edu" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Charles Vogel" email="" yearsMarched="1999" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Greg King" email="gsking@umich.edu" yearsMarched="1999-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Justin Knorr" email="" yearsMarched="1999-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Garrett Mendez" email="gamendez@umich.edu" yearsMarched="1999-2000" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Matt Graham" email="" yearsMarched="1999-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jethro Law" email="lawj@umich.edu" yearsMarched="1999-2001" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Nicholas Enlow" email="nenlow@umich.edu" yearsMarched="1999-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeff Everett" email="jdeveret@umich.edu" yearsMarched="1999-2002" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kathleen Nylan" email="" yearsMarched="1999-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Amy Wells" email="awells@umich.edu" yearsMarched="1999-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Andy Cheng" email="andycheng8@gmail.com" yearsMarched="1999-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Kristi Schmitt" email="kschmitz@umich.edu" yearsMarched="1999-2003" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Peter Chi" email="pbchi@umich.edu" yearsMarched="2000-2002" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Terry Foster" email="" yearsMarched="2000-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Mike Moffitt" email="mmoffitt@umich.edu" yearsMarched="2000-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Blake Coe" email="coeb@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Beth Johnston" email="bajohnst@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Ian Kahn" email="ikahn@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Lily Paulina" email="lpaulina@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Adam Redstone" email="aredston@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Nora Robinson" email="elrobins@umich.edu" yearsMarched="2000-2003" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Marco Krcatovich" email="mkrcatov@umich.edu" yearsMarched="2000-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kathryn McLean" email="" yearsMarched="2000-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Steve Paternel" email="" yearsMarched="2001-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Phil Muirhead" email="pmuirhead@umich.edu" yearsMarched="2001-2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Eriko Atagi" email="eatagi@umich.edu" yearsMarched="2001-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Peter Brown" email="brownpa@umich.edu" yearsMarched="2001-2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Alexander Byrne" email="" yearsMarched="2001-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Madlyn Moskowitz" email="" yearsMarched="2001-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Sanjay Newton" email="newtonss@umich.edu" yearsMarched="2001-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Erin Wilke" email="" yearsMarched="2001-2004" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Jeffrey Gdowski" email="jgdowski@gmail.com" yearsMarched="2001-2005" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Sarah Springsteen" email="sarahm.springsteen@gmail.com" yearsMarched="2001-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Jordan Armstrong" email="" yearsMarched="2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Shane Mally" email="" yearsMarched="2002" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Emily Breckenridge" email="" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Abby Buchwach" email="" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Corin Sayles" email="" yearsMarched="2002-2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Jeremy Bronson" email="" yearsMarched="2002-2005" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Michael Carroll" email="" yearsMarched="2002-2005" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Timothy Khoury" email="" yearsMarched="2002-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Karl Weintraub" email="" yearsMarched="2002-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Joseph Lohrum" email="" yearsMarched="2002-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Adrienne Harris" email="" yearsMarched="2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Daniel Rector" email="" yearsMarched="2003" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brett Beel" email="" yearsMarched="2003-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Alexander Gebhart" email="" yearsMarched="2003-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Eric Heininger" email="" yearsMarched="2003-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Michael Spratley" email="" yearsMarched="2003-2005" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Keith Trice" email="" yearsMarched="2003-2005" additionalText="" rankLeader="Yes" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Paul Winterhalter" email="" yearsMarched="2003-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Chris Butler" email="" yearsMarched="2003-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="John Eagal" email="" yearsMarched="2003-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Green" email="" yearsMarched="2003-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Devin Hurst" email="" yearsMarched="2003-2006" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andrew Laskowski" email="" yearsMarched="2003-2006" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Rudd" email="brianrudd@gmail.com" yearsMarched="2003-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="John Zalewski" email="zaljoh@umich.edu" yearsMarched="2003-2006" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Duane Breijak" email="dbreijak@gmail.com" yearsMarched="2003-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Chris Lee" email="" yearsMarched="2004" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Erin Mooney" email="emooney@umich.edu" yearsMarched="2004" additionalText="; Stick: 2000-2003" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Annalisa Grunwald" email="annalisagrunwald@gmail.com" yearsMarched="2004-2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Eric Burkman" email="" yearsMarched="2004-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Cremean" email="" yearsMarched="2004-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Timm" email="" yearsMarched="2004-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Melissa Beams" email="mabeams@umich.edu" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Mitch Bradley" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jen Cisler" email="jen.cisler@gmail.com" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Lewis Ezekiel" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Allen Fisher" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Nick Gasperoni" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Victoria Langford" email="" yearsMarched="2004-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Tomoyuki Matsushima" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Daniel Roberts" email="" yearsMarched="2004-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Matthew Rodriguez" email="" yearsMarched="2004-2007" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Aaron Schoeff" email="" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Becky Shapiro" email="beckshap@gmail.com" yearsMarched="2004-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Chris Rodgers" email="ctrodgers@gmail.com" yearsMarched="2004-2008" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Sean Collins" email="" yearsMarched="2005" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Annaka Voss" email="" yearsMarched="2005-2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="Yes" />
+	<fossil name="Timothy Collins" email="" yearsMarched="2005-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Matthew Hoffman" email="" yearsMarched="2005-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="DeAndre McCall" email="" yearsMarched="2005-2007" additionalText="; Sax: 2004" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Paul Sutherland" email="paulsuth@umich.edu" yearsMarched="2005-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="David Aguilar" email="aguilar.dave@gmail.com" yearsMarched="2005-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Greg Baker" email="" yearsMarched="2005-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Nathan Bennett" email="" yearsMarched="2005-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Catherine Castellana" email="" yearsMarched="2005-2008" additionalText="; Staff: 2009-2010" rankLeader="Yes" sectionLeader="Yes" bonebabe="Yes" bassbone="No" />
+	<fossil name="Bryan DeGrendel" email="" yearsMarched="2005-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Michael Harlow" email="harlomic@gmail.com" yearsMarched="2005-2008" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Bill Melville" email="willmelv@gmail.com" yearsMarched="2005-2008" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Amy Rydleski" email="rydleski@umich.edu" yearsMarched="2005-2008" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Jeffrey Zebrowski" email="" yearsMarched="2005-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andrew Monks" email="" yearsMarched="2006" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jack Hall" email="" yearsMarched="2006-2007" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jon Tap" email="" yearsMarched="2006-2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Taylor Gast" email="" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Christian Hatfield" email="christmanx@gmail.com" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Brian Herrick" email="" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jake Hoernschemeyer" email="jhoernsch@gmail.com" yearsMarched="2006-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Abby Johnson" email="" yearsMarched="2006-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Whitaker Martin" email="whitakma@gmail.com" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kelsy Wilson" email="" yearsMarched="2006-2009" additionalText="" rankLeader="Yes" sectionLeader="Yes" bonebabe="Yes" bassbone="No" />
+	<fossil name="Ryan McKown" email="" yearsMarched="2006-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<!--Graduated?fossil name="Antoinette Ruffolo" yearsMarched="2007" additionalText="" rankLeader="No" sectionLeader="No" bassbone="Yes" /-->
+	<fossil name="Ikenna Anyanetu" email="" yearsMarched="2007-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Andrew Lapin" email="alapin730@gmail.com" yearsMarched="2007-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="K. Scott Tripp" email="" yearsMarched="2007-2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jason Bies" email="skasonbies@gmail.com" yearsMarched="2007-2010" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Sierra Cain" email="" yearsMarched="2007-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Kaili McKnight" email="kailimck@gmail.com" yearsMarched="2007-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Matthew Vujovich" email="" yearsMarched="2007-2010" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Desmond Davis" email="" yearsMarched="2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Richie Grasso" email="" yearsMarched="2008" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Dore Deffebaugh" email="" yearsMarched="2008-2009" additionalText="" rankLeader="No" sectionLeader="No" bassbone="Yes" />
+	<fossil name="Jesse Belanger" email="jpbelang1223@gmail.com" yearsMarched="2008-2010" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="T.J. Wolfgram" email="tjwolfg@gmail.com" yearsMarched="2008, 2010" additionalText="; Tuba 2007" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Jeffrey Atkins" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jesse Belanger" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Michael Carlson" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Alexandra Genia" email="" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Kyle McDevitt" email="" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Andrew Mitchell" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Caitlin Northcutt" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Ryuta Oshikiri" email="" yearsMarched="2008-2011" additionalText="" rankLeader="No" sectionLeader="Yes" bonebabe="No" bassbone="No" />
+	<fossil name="Mark Rulkowski" email="" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Christopher Wells" email="" yearsMarched="2008-2011" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jeffrey Arthur" email="" yearsMarched="2009" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Kyle Lutz" email="klutzylutzy@gmail.com" yearsMarched="2009-2010" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Marten Hawkins" email="" yearsMarched="2009-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jason Krystek" email="" yearsMarched="2009-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Jonathan Beaumont" email="" yearsMarched="2009-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Laura Lindgren" email="" yearsMarched="2009-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="Yes" bassbone="No" />
+	<fossil name="Eric Pesch" email="" yearsMarched="2009-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="Nathan Werme" email="" yearsMarched="2009-2012" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" />
+
+	<!--14fossil name="Kellen Marceau" email="" yearsMarched="2009-2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--14fossil name="Andrew Schumacher" email="" yearsMarched="2009-2013" additionalText="" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--14fossil name="Solomon Shurge" email="" yearsMarched="2009-2013" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+
+	<!--14fossil name="Matt Busch" email="" yearsMarched="2010" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--14fossil name="Peter Ceglarek" email="" yearsMarched="2010-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--14fossil name="Mark Coldren" email="" yearsMarched="2010-2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<fossil name="Trent Hibbard" email="" yearsMarched="2010-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<!--14fossil name="Ryan Parlin" email="" yearsMarched="2010-2012" additionalText="" rankLeader="No" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" /-->
+	<fossil name="Joseph Stoddard" email="" yearsMarched="2010-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<fossil name="Adam Winnie" email="" yearsMarched="2010-2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<!--14fossil name="Stephen Uy" email="" yearsMarched="2010-2012" additionalText="" rankLeader="No" rankLeader="Yes" sectionLeader="No" bonebabe="No" bassbone="Yes" /-->
+	
+	<fossil name="Bill Grant" email="" yearsMarched="2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<!--15fossil name="Chris Haddlesey" email="" yearsMarched="2011" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--15fossil name="Jeffrey Okala" email="" yearsMarched="2011-2012" additionalText="; DM: 2013-2014" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	
+	<fossil name="Kevin Wroblewski" email="" yearsMarched="2012" additionalText="; Tuba: 2009-2011" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="Yes" />
+	<!--14fossil name="Charlie Matrosic" email="" yearsMarched="2012" additionalText="" rankLeader="No" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--16fossil name="Nathan Steeby" email="" yearsMarched="2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+	<!--16fossil name="Patrick Wan" email="" yearsMarched="2012" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" /-->
+
+	<fossil name="" email="" yearsMarched="" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="" email="" yearsMarched="" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="" email="" yearsMarched="" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="" email="" yearsMarched="" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+	<fossil name="" email="" yearsMarched="" additionalText="" rankLeader="No" sectionLeader="No" bonebabe="No" bassbone="No" />
+</fossils>
